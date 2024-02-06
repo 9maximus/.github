@@ -66,3 +66,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9maximus&show_icons=true&locale=en" alt="9maximus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9maximus&" alt="9maximus" /></p>
+
+[![9maximus's GitHub | Stats](https://stats.quine.sh/9maximus/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=9maximus)
